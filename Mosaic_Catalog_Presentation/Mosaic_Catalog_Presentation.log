@@ -1,0 +1,1758 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.12.2)  17 MAY 2021 15:22
+entering extended mode
+**./Mosaic_Catalog_Presentation.tex
+(Mosaic_Catalog_Presentation.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+.cls"
+Document Class: beamer 2020/07/22 v3.59 A class for typesetting presentations
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basemodes.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoo
+lbox.sty"
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count175
+)
+\beamer@tempbox=\box47
+\beamer@tempcount=\count176
+\c@beamerpauses=\count177
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basedecode.sty"
+\beamer@slideinframe=\count178
+\beamer@minimum=\count179
+\beamer@decode@box=\box48
+)
+\beamer@commentbox=\box49
+\beamer@modecount=\count180
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf
+.sty"
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex
+.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\headdp=\dimen138
+\footheight=\dimen139
+\sidebarheight=\dimen140
+\beamer@tempdim=\dimen141
+\beamer@finalheight=\dimen142
+\beamer@animht=\dimen143
+\beamer@animdp=\dimen144
+\beamer@animwd=\dimen145
+\beamer@leftmargin=\dimen146
+\beamer@rightmargin=\dimen147
+\beamer@leftsidebar=\dimen148
+\beamer@rightsidebar=\dimen149
+\beamer@boxsize=\dimen150
+\beamer@vboxoffset=\dimen151
+\beamer@descdefault=\dimen152
+\beamer@descriptionwidth=\dimen153
+\beamer@lastskip=\skip47
+\beamer@areabox=\box50
+\beamer@animcurrent=\box51
+\beamer@animshowbox=\box52
+\beamer@sectionbox=\box53
+\beamer@logobox=\box54
+\beamer@linebox=\box55
+\beamer@sectioncount=\count181
+\beamer@subsubsectionmax=\count182
+\beamer@subsectionmax=\count183
+\beamer@sectionmax=\count184
+\beamer@totalheads=\count185
+\beamer@headcounter=\count186
+\beamer@partstartpage=\count187
+\beamer@sectionstartpage=\count188
+\beamer@subsectionstartpage=\count189
+\beamer@animationtempa=\count190
+\beamer@animationtempb=\count191
+\beamer@xpos=\count192
+\beamer@ypos=\count193
+\beamer@ypos@offset=\count194
+\beamer@showpartnumber=\count195
+\beamer@currentsubsection=\count196
+\beamer@coveringdepth=\count197
+\beamer@sectionadjust=\count198
+\beamer@tocsectionnumber=\count199
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseoptions.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyv
+al.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+))
+\beamer@paperwidth=\skip48
+\beamer@paperheight=\skip49
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
+etry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvte
+x.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen154
+\Gm@wd@mp=\dimen155
+\Gm@odd@mp=\dimen156
+\Gm@even@mp=\dimen157
+\Gm@layoutwidth=\dimen158
+\Gm@layoutheight=\dimen159
+\Gm@layouthoffset=\dimen160
+\Gm@layoutvoffset=\dimen161
+\Gm@dimlist=\toks16
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geom
+etry.cfg"))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size
+9.clo"
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclaye
+r\pgfcore.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hicx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/graphics\grap
+hics.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig
+.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\
+pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlay
+er\pgfsys.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
+\pgfrcs.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfutil-common.tex"
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen164
+\pgfutil@tempdimb=\dimen165
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfutil-common-lists.tex"))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfutil-latex.def"
+\pgfutil@abb=\box56
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfrcs.code.tex"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.rev
+ision.tex")
+Package: pgfrcs 2020/10/01 v3.1.6a (3.1.6a)
+))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsys.code.tex"
+Package: pgfsys 2020/10/01 v3.1.6a (3.1.6a)
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utiliti
+es\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen166
+\pgf@y=\dimen167
+\pgf@xa=\dimen168
+\pgf@ya=\dimen169
+\pgf@xb=\dimen170
+\pgf@yb=\dimen171
+\pgf@xc=\dimen172
+\pgf@yc=\dimen173
+\pgf@xd=\dimen174
+\pgf@yd=\dimen175
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count269
+\c@pgf@countb=\count270
+\c@pgf@countc=\count271
+\c@pgf@countd=\count272
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count273
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgf.cfg"
+File: pgf.cfg 2020/10/01 v3.1.6a (3.1.6a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2020/10/01 v3.1.6a (3.1.6a)
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsys-common-pdf.def"
+File: pgfsys-common-pdf.def 2020/10/01 v3.1.6a (3.1.6a)
+)))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsyssoftpath.code.tex"
+File: pgfsyssoftpath.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfsyssoftpath@smallbuffer@items=\count274
+\pgfsyssoftpath@bigbuffer@items=\count275
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systeml
+ayer\pgfsysprotocol.code.tex"
+File: pgfsysprotocol.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor
+.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\
+color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcore.code.tex"
+Package: pgfcore 2020/10/01 v3.1.6a (3.1.6a)
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmath.code.tex"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathcalc.code.tex"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathutil.code.tex")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathparser.code.tex"
+\pgfmath@dimen=\dimen176
+\pgfmath@count=\count276
+\pgfmath@box=\box57
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.code.tex"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.basic.code.tex")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.trigonometric.code.tex")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.random.code.tex")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.comparison.code.tex")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.base.code.tex")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.round.code.tex")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.misc.code.tex")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfunctions.integerarithmetics.code.tex")))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count277
+))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pg
+fint.code.tex")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepoints.code.tex"
+File: pgfcorepoints.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@picminx=\dimen177
+\pgf@picmaxx=\dimen178
+\pgf@picminy=\dimen179
+\pgf@picmaxy=\dimen180
+\pgf@pathminx=\dimen181
+\pgf@pathmaxx=\dimen182
+\pgf@pathminy=\dimen183
+\pgf@pathmaxy=\dimen184
+\pgf@xx=\dimen185
+\pgf@xy=\dimen186
+\pgf@yx=\dimen187
+\pgf@yy=\dimen188
+\pgf@zx=\dimen189
+\pgf@zy=\dimen190
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepathconstruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@path@lastx=\dimen191
+\pgf@path@lasty=\dimen192
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepathusage.code.tex"
+File: pgfcorepathusage.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@shorten@end@additional=\dimen193
+\pgf@shorten@start@additional=\dimen194
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorescopes.code.tex"
+File: pgfcorescopes.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfpic=\box58
+\pgf@hbox=\box59
+\pgf@layerbox@main=\box60
+\pgf@picture@serial@count=\count278
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoregraphicstate.code.tex"
+File: pgfcoregraphicstate.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgflinewidth=\dimen195
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoretransformations.code.tex"
+File: pgfcoretransformations.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@pt@x=\dimen196
+\pgf@pt@y=\dimen197
+\pgf@pt@temp=\dimen198
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoreobjects.code.tex"
+File: pgfcoreobjects.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepathprocessing.code.tex"
+File: pgfcorepathprocessing.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorearrows.code.tex"
+File: pgfcorearrows.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfarrowsep=\dimen199
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgf@max=\dimen256
+\pgf@sys@shading@range@num=\count279
+\pgf@shadingcount=\count280
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoreimage.code.tex"
+File: pgfcoreimage.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoreexternal.code.tex"
+File: pgfcoreexternal.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+\pgfexternal@startupbox=\box61
+))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorelayers.code.tex"
+File: pgfcorelayers.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcoretransparency.code.tex"
+File: pgfcoretransparency.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorepatterns.code.tex"
+File: pgfcorepatterns.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basicla
+yer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2020/10/01 v3.1.6a (3.1.6a)
+)))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities
+\xxcolor.sty"
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count281
+\XC@countmixins=\count282
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi
+-ltx.sty"
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hype
+rref.sty"
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltx
+cmds.sty"
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\
+pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\i
+nfwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\k
+vsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekey
+s\kvdefinekeys.sty"
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\p
+dfescape.sty"
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycol
+or.sty"
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\l
+etltxmacro.sty"
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxho
+ok.sty"
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvo
+ptions.sty"
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen257
+\Hy@linkcounter=\count283
+\Hy@pagecounter=\count284
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1e
+nc.def"
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\int
+calc.sty"
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\et
+excmds.sty"
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count285
+Package hyperref Info: Option `bookmarks' set `true' on input line 4338.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4338.
+Package hyperref Info: Option `implicit' set `false' on input line 4338.
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count286
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen258
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bits
+et.sty"
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\
+bigintcalc.sty"
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count287
+\Field@Width=\dimen259
+\Fld@charsize=\dimen260
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+\Hy@abspage=\count288
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdf
+tex.def"
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryen
+d-ltx.sty"
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count289
+\c@bookmark@seq@number=\count290
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilechec
+k\rerunfilecheck.sty"
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/uniquecount
+er\uniquecounter.sty"
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baserequires.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basecompatibility.sty")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basefont.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amss
+ymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsf
+onts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks27
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccen
+t\sansmathaccent.sty"
+Package: sansmathaccent 2020/01/31
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\s
+crlfile.sty"
+Package: scrlfile 2020/09/21 v3.32 KOMA-Script package (file load hooks)
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\s
+crlfile-hook.sty"
+Package: scrlfile-hook 2020/09/21 v3.32 KOMA-Script package (using LaTeX hooks)
+
+
+LaTeX3 Info: Defining command \BeforeFile with sig. 'm' on line 61.
+
+
+LaTeX3 Info: Defining command \AfterFile with sig. 'm' on line 65.
+
+
+LaTeX3 Info: Defining command \BeforeClass with sig. 'm' on line 69.
+
+
+LaTeX3 Info: Defining command \BeforePackage with sig. 'm' on line 73.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfClass with sig. 'smo+m' on line 83.
+
+
+LaTeX3 Info: Defining command \AfterAtEndOfPackage with sig. 'smo+m' on line
+(LaTeX3)     93.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterClass with sig. 'smo+m' on line
+(LaTeX3)     173.
+
+
+LaTeX3 Info: Defining command \AfterClass with sig. '' on line 174.
+
+
+LaTeX3 Info: Defining command \scrlfile@AfterPackage with sig. 'smo+m' on line
+(LaTeX3)     191.
+
+
+LaTeX3 Info: Defining command \AfterPackage with sig. '' on line 192.
+
+
+LaTeX3 Info: Defining command \ReplaceInput with sig. '' on line 193.
+
+
+LaTeX3 Info: Defining command \ReplaceClass with sig. 'mm' on line 196.
+
+
+LaTeX3 Info: Defining command \ReplacePackage with sig. 'mm' on line 199.
+
+
+LaTeX3 Info: Defining command \UnReplaceInput with sig. '' on line 200.
+
+
+LaTeX3 Info: Defining command \UnReplaceClass with sig. 'm' on line 203.
+
+
+LaTeX3 Info: Defining command \UnReplacePackage with sig. 'mm' on line 206.
+
+
+LaTeX3 Info: Defining command \PreventPackageFromLoading with sig. 's+om' on
+(LaTeX3)     line 234.
+
+
+LaTeX3 Info: Defining command \StorePreventPackageFromLoading with sig. 'm' on
+(LaTeX3)     line 242.
+
+
+LaTeX3 Info: Defining command \ResetPreventPackageFromLoading with sig. '' on
+(LaTeX3)     line 247.
+
+
+LaTeX3 Info: Defining command \UnPreventPackageFromLoading with sig. 'sm' on
+(LaTeX3)     line 261.
+
+
+LaTeX3 Info: Defining command \BeforeClosingMainAux with sig. 'om' on line
+(LaTeX3)     274.
+
+
+LaTeX3 Info: Defining command \AfterReadingMainAux with sig. 'om' on line 287.
+
+
+LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
+(LaTeX3)     line 298.
+
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\s
+crlogo.sty"
+Package: scrlogo 2020/09/21 v3.32 KOMA-Script package (logo)
+)))))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basetranslator.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator.sty"
+Package: translator 2020-08-03 v1.12c Easy translation of strings in LaTeX
+))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basemisc.sty")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basetwoscreens.sty")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseoverlay.sty"
+\beamer@argscount=\count291
+\beamer@lastskipcover=\skip50
+\beamer@trivlistdepth=\count292
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basetitle.sty")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basesection.sty"
+\c@lecture=\count293
+\c@part=\count294
+\c@section=\count295
+\c@subsection=\count296
+\c@subsubsection=\count297
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseframe.sty"
+\beamer@framebox=\box62
+\beamer@frametitlebox=\box63
+\beamer@zoombox=\box64
+\beamer@zoomcount=\count298
+\beamer@zoomframecount=\count299
+\beamer@frametextheight=\dimen261
+\c@subsectionslide=\count300
+\beamer@frametopskip=\skip51
+\beamer@framebottomskip=\skip52
+\beamer@frametopskipautobreak=\skip53
+\beamer@framebottomskipautobreak=\skip54
+\beamer@envbody=\toks28
+\framewidth=\dimen262
+\c@framenumber=\count301
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseverbatim.sty"
+\beamer@verbatimfileout=\write4
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseframesize.sty"
+\beamer@splitbox=\box65
+\beamer@autobreakcount=\count302
+\beamer@autobreaklastheight=\dimen263
+\beamer@frametitletoks=\toks29
+\beamer@framesubtitletoks=\toks30
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseframecomponents.sty"
+\beamer@footins=\box66
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basecolor.sty")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basenotes.sty"
+\beamer@frameboxcopy=\box67
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basetoc.sty")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basetemplates.sty"
+\beamer@sbttoks=\toks31
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseauxtemplates.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baseboxes.sty"
+\bmb@box=\box68
+\bmb@colorbox=\box69
+\bmb@boxshadow=\box70
+\bmb@boxshadowball=\box71
+\bmb@boxshadowballlarge=\box72
+\bmb@temp=\dimen264
+\bmb@dima=\dimen265
+\bmb@dimb=\dimen266
+\bmb@prevheight=\dimen267
+)
+\beamer@blockheadheight=\dimen268
+))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+baselocalstructure.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumera
+te.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks32
+)
+\c@figure=\count303
+\c@table=\count304
+\abovecaptionskip=\skip55
+\belowcaptionskip=\skip56
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basenavigation.sty"
+\beamer@section@min@dim=\dimen269
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basetheorems.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsma
+th.sty"
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amste
+xt.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsge
+n.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks33
+\ex@=\dimen270
+))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbs
+y.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen271
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsop
+n.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count305
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count306
+\leftroot@=\count307
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count308
+\DOTSCASE@=\count309
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box73
+\strutbox@=\box74
+\big@size=\dimen272
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count310
+\c@MaxMatrixCols=\count311
+\dotsspace@=\muskip17
+\c@parentequation=\count312
+\dspbrk@lvl=\count313
+\tag@help=\toks34
+\row@=\count314
+\column@=\count315
+\maxfields@=\count316
+\andhelp@=\toks35
+\eqnshift@=\dimen273
+\alignsep@=\dimen274
+\tagshift@=\dimen275
+\tagwidth@=\dimen276
+\totwidth@=\dimen277
+\lineht@=\dimen278
+\@envbody=\toks36
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm
+.sty"
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks38
+\thm@bodyfont=\toks39
+\thm@headfont=\toks40
+\thm@notefont=\toks41
+\thm@headpunct=\toks42
+\thm@preskip=\skip60
+\thm@postskip=\skip61
+\thm@headsep=\skip62
+\dth@everypar=\toks43
+)
+\c@theorem=\count317
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+basethemes.sty"))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+themedefault.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+fontthemedefault.sty")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+colorthemedefault.sty")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+innerthemedefault.sty"
+\beamer@dima=\dimen279
+\beamer@dimb=\dimen280
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+outerthemedefault.sty")))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.
+sty"
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+themeBoadilla.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+colorthemerose.sty")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+innerthemerounded.sty")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+colorthemedolphin.sty")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+outerthemeinfolines.sty"))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+colorthemestructure.sty")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\book
+tabs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen281
+\lightrulewidth=\dimen282
+\cmidrulewidth=\dimen283
+\belowrulesep=\dimen284
+\belowbottomsep=\dimen285
+\aboverulesep=\dimen286
+\abovetopsep=\dimen287
+\cmidrulesep=\dimen288
+\cmidrulekern=\dimen289
+\defaultaddspace=\dimen290
+\@cmidla=\count318
+\@cmidlb=\count319
+\@aboverulesep=\dimen291
+\@belowrulesep=\dimen292
+\@thisruleclass=\count320
+\@lastruleclass=\count321
+\@thisrulewidth=\dimen293
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+fontthemeserif.sty")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+themeGoettingen.sty"
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer
+outerthemesidebar.sty"
+\beamer@sidebarwidth=\dimen294
+\beamer@headheight=\dimen295
+))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\f
+ontawesome.sty"
+Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxet
+ex.sty"
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iflua
+tex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\f
+ontawesomesymbols-generic.tex")
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome\f
+ontawesomesymbols-pdftex.tex"))
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3b
+ackend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count322
+\l__pdf_internal_box=\box75
+) (Mosaic_Catalog_Presentation.aux)
+\openout1 = `Mosaic_Catalog_Presentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
+LaTeX Font Info:    ... okay on input line 83.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(14.22636pt, 256.07483pt, 93.89417pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=256.07483pt
+* \textheight=244.6939pt
+* \oddsidemargin=-58.04362pt
+* \evensidemargin=-58.04362pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=9.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=8.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\s
+upp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count323
+\scratchdimen=\dimen296
+\scratchbox=\box76
+\nofMPsegments=\count324
+\nofMParguments=\count325
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count326
+\MPscratchDim=\dimen297
+\MPnumerator=\count327
+\makeMPintoPDFobject=\count328
+\everyMPtoPDFconversion=\toks45
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\
+epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package hyperref Info: Link coloring OFF on input line 83.
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\name
+ref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refc
+ount.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestr
+ing\gettitlestring.sty"
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count329
+)
+LaTeX Info: Redefining \ref on input line 83.
+LaTeX Info: Redefining \pageref on input line 83.
+LaTeX Info: Redefining \nameref on input line 83.
+ (Mosaic_Catalog_Presentation.out)
+(Mosaic_Catalog_Presentation.out)
+\@outlinefile=\write5
+\openout5 = `Mosaic_Catalog_Presentation.out'.
+
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator-bibliography-dictionary-English.dict"
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator-environment-dictionary-English.dict"
+Dictionary: translator-environment-dictionary, Language: English 
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator-months-dictionary-English.dict"
+Dictionary: translator-months-dictionary, Language: English 
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator-numbers-dictionary-English.dict"
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/translator\tr
+anslator-theorem-dictionary-English.dict"
+Dictionary: translator-theorem-dictionary, Language: English 
+) (Mosaic_Catalog_Presentation.nav)
+LaTeX Font Info:    Calculating math sizes for size <4> on input line 87.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2> not available
+(Font)              size <3> substituted on input line 87.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4> not available
+(Font)              size <5> substituted on input line 87.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2.79999> not available
+(Font)              size <5> substituted on input line 87.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <2> not available
+(Font)              size <5> substituted on input line 87.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4> not available
+(Font)              size <5> substituted on input line 87.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2.79999> not available
+(Font)              size <5> substituted on input line 87.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <2> not available
+(Font)              size <5> substituted on input line 87.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 87.
+
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa
+.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 87.
+
+
+("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb
+.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1{C:/Users/britta themann/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+] [2
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 93.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 93.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180607-COA-0848-091
+5-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-15_map_TCI_info_
+plot.png, id=236, 722.7pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180607-COA-084
+8-0915-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-15_map_TCI_
+info_plot.png Graphic file (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180607-COA-0848
+-0915-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-15_map_TCI_i
+nfo_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180607-COA-0848-0915-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_
+2021-04-15_map_TCI_info_plot.png  used on input line 98.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 98
+ []
+
+[3
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180607-COA-0848-09
+15-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-15_map_TCI_info
+_plot.png (PNG copy)>] [4
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 102.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 102.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180730-S3IT-1135-11
+49-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png, id=
+306, 722.7pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180730-S3IT-11
+35-1149-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png
+ Graphic file (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180730-S3IT-113
+5-1149-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png>
+
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180730-S3IT-1135-1149-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_ma
+p_TCI_info_plot.png  used on input line 107.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 107
+ []
+
+[5
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180730-S3IT-1135-1
+149-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png (PN
+G copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 109.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 109.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0189_Gross_180616_a0
+1-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png, id=341, 722.7pt x 7
+22.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0189_Gross_1806
+16_a01-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png Graphic file (t
+ype png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0189_Gross_18061
+6_a01-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//M0189_Gross_180616_a01-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.
+png  used on input line 114.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 114
+ []
+
+[6
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0189_Gross_180616_a
+01-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 116.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 116.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0216_Gross_180704_a0
+1-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.png, id=376, 722.7pt x 7
+22.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0216_Gross_1807
+04_a01-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.png Graphic file (t
+ype png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0216_Gross_18070
+4_a01-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//M0216_Gross_180704_a01-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.
+png  used on input line 121.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 121
+ []
+
+[7
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0216_Gross_180704_a
+01-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 123.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180718-S3IT-1150-15
+25-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-29_map_TCI_info
+_plot.png, id=412, 722.7pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180718-S3IT-11
+50-1525-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-29_map_TCI
+_info_plot.png Graphic file (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180718-S3IT-115
+0-1525-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-29_map_TCI_
+info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180718-S3IT-1150-1525-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT
+_2021-03-29_map_TCI_info_plot.png  used on input line 128.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 128
+ []
+
+[8
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180718-S3IT-1150-1
+525-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-29_map_TCI_inf
+o_plot.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 130.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 130.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0231_Gross_180731_a0
+6-8c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png, id=447, 722.7pt x 72
+2.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0231_Gross_1807
+31_a06-8c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png Graphic file (ty
+pe png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0231_Gross_18073
+1_a06-8c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//M0231_Gross_180731_a06-8c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.p
+ng  used on input line 135.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 135
+ []
+
+[9
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0231_Gross_180731_a
+06-8c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 137.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 137.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0231_Gross_180731_a0
+1-8c_v1_Part_0-2_refl_BT_2021-03-25_map_TCI_info_plot.png, id=482, 722.7pt x 72
+2.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0231_Gross_1807
+31_a01-8c_v1_Part_0-2_refl_BT_2021-03-25_map_TCI_info_plot.png Graphic file (ty
+pe png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0231_Gross_18073
+1_a01-8c_v1_Part_0-2_refl_BT_2021-03-25_map_TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//M0231_Gross_180731_a01-8c_v1_Part_0-2_refl_BT_2021-03-25_map_TCI_info_plot.p
+ng  used on input line 142.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 142
+ []
+
+[10
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0231_Gross_180731_a
+01-8c_v1_Part_0-2_refl_BT_2021-03-25_map_TCI_info_plot.png (PNG copy)>]
+[11
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 146.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 146.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180710-S3FR-3050-MO
+SAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png, id=552, 722.7
+pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180710-S3FR-30
+50-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png Graphic f
+ile (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180710-S3FR-305
+0-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180710-S3FR-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info
+_plot.png  used on input line 151.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 151
+ []
+
+[12
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180710-S3FR-3050-M
+OSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 153.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 153.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180710-OHP-1059-133
+8-1200-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-31_map_TCI_
+info_plot.png, id=587, 722.7pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180710-OHP-105
+9-1338-1200-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-31_map
+_TCI_info_plot.png Graphic file (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180710-OHP-1059
+-1338-1200-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-31_map_
+TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180710-OHP-1059-1338-1200-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rec
+t_BT_2021-03-31_map_TCI_info_plot.png  used on input line 158.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 158
+ []
+
+[13
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180710-OHP-1059-13
+38-1200-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-31_map_TCI
+_info_plot.png (PNG copy)>] [14
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 162.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 162.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-CKA-1326-132
+9-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-13_map_TCI_info_p
+lot.png, id=658, 722.7pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-CKA-132
+6-1329-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-13_map_TCI_i
+nfo_plot.png Graphic file (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-CKA-1326
+-1329-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-13_map_TCI_in
+fo_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180802-CKA-1326-1329-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2
+021-04-13_map_TCI_info_plot.png  used on input line 167.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 167
+ []
+
+[15
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-CKA-1326-13
+29-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-13_map_TCI_info_
+plot.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 169.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 169.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-CKA-1310-131
+8-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-14_map_TCI_info_p
+lot.png, id=693, 722.7pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-CKA-131
+0-1318-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-14_map_TCI_i
+nfo_plot.png Graphic file (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-CKA-1310
+-1318-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-14_map_TCI_in
+fo_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180802-CKA-1310-1318-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2
+021-04-14_map_TCI_info_plot.png  used on input line 174.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 174
+ []
+
+[16
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-CKA-1310-13
+18-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-14_map_TCI_info_
+plot.png (PNG copy)>] [17
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 178.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 178.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180702-S3GER-1223-1
+233-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2020-10-03_map_TCI_inf
+o_plot.png, id=763, 722.7pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180702-S3GER-1
+223-1233-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2020-10-03_map_TC
+I_info_plot.png Graphic file (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180702-S3GER-12
+23-1233-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2020-10-03_map_TCI
+_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180702-S3GER-1223-1233-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_B
+T_2020-10-03_map_TCI_info_plot.png  used on input line 183.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 183
+ []
+
+[18
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180702-S3GER-1223-
+1233-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2020-10-03_map_TCI_in
+fo_plot.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 185.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 185.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-SEL-1227-125
+4-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-16_map_TCI_info_p
+lot.png, id=798, 722.7pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-SEL-122
+7-1254-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-16_map_TCI_i
+nfo_plot.png Graphic file (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-SEL-1227
+-1254-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-16_map_TCI_in
+fo_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180802-SEL-1227-1254-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2
+021-04-16_map_TCI_info_plot.png  used on input line 190.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 190
+ []
+
+[19
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-SEL-1227-12
+54-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-16_map_TCI_info_
+plot.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 192.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 192.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-S3GER-1204-1
+217-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-08_map_TCI_inf
+o_plot.png, id=834, 722.7pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-S3GER-1
+204-1217-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-08_map_TC
+I_info_plot.png Graphic file (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-S3GER-12
+04-1217-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-08_map_TCI
+_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180802-S3GER-1204-1217-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_B
+T_2021-04-08_map_TCI_info_plot.png  used on input line 197.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 197
+ []
+
+[20
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-S3GER-1204-
+1217-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-08_map_TCI_in
+fo_plot.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 199.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 199.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0213_S3B_J_180702_a0
+1-05c_v1_Part_0-1_refl_BT_2021-03-28_map_TCI_info_plot.png, id=869, 722.7pt x 7
+22.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0213_S3B_J_1807
+02_a01-05c_v1_Part_0-1_refl_BT_2021-03-28_map_TCI_info_plot.png Graphic file (t
+ype png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0213_S3B_J_18070
+2_a01-05c_v1_Part_0-1_refl_BT_2021-03-28_map_TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//M0213_S3B_J_180702_a01-05c_v1_Part_0-1_refl_BT_2021-03-28_map_TCI_info_plot.
+png  used on input line 204.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 204
+ []
+
+[21
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0213_S3B_J_180702_a
+01-05c_v1_Part_0-1_refl_BT_2021-03-28_map_TCI_info_plot.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 206.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 206.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0214_S3B_S_180702_a0
+1c_v1_Part_0-1_refl_BT_2021-03-29_map_TCI_info_plot.png, id=904, 722.7pt x 722.
+7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0214_S3B_S_1807
+02_a01c_v1_Part_0-1_refl_BT_2021-03-29_map_TCI_info_plot.png Graphic file (type
+ png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0214_S3B_S_18070
+2_a01c_v1_Part_0-1_refl_BT_2021-03-29_map_TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//M0214_S3B_S_180702_a01c_v1_Part_0-1_refl_BT_2021-03-29_map_TCI_info_plot.png
+  used on input line 211.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 211
+ []
+
+[22
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0214_S3B_S_180702_a
+01c_v1_Part_0-1_refl_BT_2021-03-29_map_TCI_info_plot.png (PNG copy)>]
+[23
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 216.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 216.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180624-MAJ-1015-MOS
+AIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png, id=974, 722.7p
+t x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180624-MAJ-101
+5-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png Graphic fi
+le (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180624-MAJ-1015
+-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180624-MAJ-1015-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_
+plot.png  used on input line 221.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 221
+ []
+
+[24
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180624-MAJ-1015-MO
+SAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 223.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 223.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180624-S3ESP-3050-M
+OSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png, id=1009, 722
+.7pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180624-S3ESP-3
+050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png Graphic 
+file (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180624-S3ESP-30
+50-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180624-S3ESP-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_inf
+o_plot.png  used on input line 228.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 228
+ []
+
+[25
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180624-S3ESP-3050-
+MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png (PNG copy)>]
+ [26
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 232.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 232.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180713-S3SWI-3050-M
+OSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png, id=1080, 722
+.7pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180713-S3SWI-3
+050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png Graphic 
+file (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180713-S3SWI-30
+50-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180713-S3SWI-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_inf
+o_plot.png  used on input line 237.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 237
+ []
+
+[27
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180713-S3SWI-3050-
+MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png (PNG copy)>]
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 239.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 239.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180713-LAE-1327-134
+7-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-09_map_TCI_info_
+plot.png, id=1115, 722.7pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180713-LAE-132
+7-1347-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-09_map_TCI_
+info_plot.png Graphic file (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180713-LAE-1327
+-1347-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-09_map_TCI_i
+nfo_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180713-LAE-1327-1347-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_
+2021-04-09_map_TCI_info_plot.png  used on input line 244.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 244
+ []
+
+[28
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180713-LAE-1327-13
+47-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-09_map_TCI_info
+_plot.png (PNG copy)>] [29
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 248.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 248.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180713-GRE-1046-180
+0-L1-N-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png, id=1185, 72
+2.7pt x 722.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180713-GRE-104
+6-1800-L1-N-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png Graphic
+ file (type png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180713-GRE-1046
+-1800-L1-N-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//20180713-GRE-1046-1800-L1-N-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_in
+fo_plot.png  used on input line 253.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 253
+ []
+
+[30
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180713-GRE-1046-18
+00-L1-N-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png (PNG copy)>
+]
+\tf@nav=\write6
+\openout6 = `Mosaic_Catalog_Presentation.nav'.
+
+\tf@toc=\write7
+\openout7 = `Mosaic_Catalog_Presentation.toc'.
+
+\tf@snm=\write8
+\openout8 = `Mosaic_Catalog_Presentation.snm'.
+
+ (Mosaic_Catalog_Presentation.aux)
+Package rerunfilecheck Info: File `Mosaic_Catalog_Presentation.out' has not cha
+nged.
+(rerunfilecheck)             Checksum: 771965C87B5258570D135BA56DCF5F78;1567.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 3.0pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 19993 strings out of 480224
+ 400746 string characters out of 2875790
+ 663609 words of memory out of 3000000
+ 35980 multiletter control sequences out of 15000+200000
+ 542054 words of font info for 47 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 111i,17n,112p,959b,605s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\britta themann\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\ecss0600.pk> <C:\Users\britta themann\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecss0900.pk> <C:\Users\britta themann\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\britta themann\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0500.pk><C:/Users/britta 
+themann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb>
+Output written on Mosaic_Catalog_Presentation.pdf (30 pages, 55403039 bytes).
+PDF statistics:
+ 1384 PDF objects out of 1440 (max. 8388607)
+ 90 named destinations out of 1000 (max. 500000)
+ 386 words of extra memory for PDF output out of 10000 (max. 10000000)
+
