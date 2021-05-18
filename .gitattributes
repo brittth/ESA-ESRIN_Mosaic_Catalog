@@ -1,2 +1,2 @@
-*. linguist-language=R
+*.* linguist-language=R
 *.tex linguist-vendored
