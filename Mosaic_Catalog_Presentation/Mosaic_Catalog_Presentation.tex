@@ -1,0 +1,256 @@
+\documentclass[9pt]{beamer}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\graphicspath{{C:/Users/britta themann/Documents/Mosaic_Catalog/output/}}
+\usetheme{Boadilla}
+\usecolortheme[named=purple]{structure}
+\usepackage{booktabs} % tables
+\usefonttheme[onlymath]{serif}
+\usetheme[width=2.8cm, height = 1cm]{Goettingen}
+\usepackage{fontawesome} % buttons
+
+% buttons
+\setbeamerfont{button}{size=\tiny}
+\def\insertreturnsymbol{%
+  \faChevronLeft\space
+}
+\def\insertskipsymbol{%
+  \space\faChevronRight
+}
+
+\usepackage{etoolbox} % table of contents spacing
+
+% sidebar adjustment
+  \makeatletter
+  \setbeamertemplate{sidebar \beamer@sidebarside}%
+  {
+    \beamer@tempdim=\beamer@sidebarwidth%
+    \advance\beamer@tempdim by -6pt%
+    \insertverticalnavigation{\beamer@sidebarwidth}%
+    \vfill
+    \ifx\beamer@sidebarside\beamer@lefttext%
+    \else%
+      \usebeamercolor{normal text}%
+      \llap{\usebeamertemplate***{navigation symbols}\hskip0.1cm}%
+      \vskip2pt%
+    \fi%
+  }%
+\makeatother
+
+\makeatletter\setbeamertemplate{navigation symbols}{} %remove navigation symbols
+
+\makeatletter % reduce line spacing in table of contents
+\patchcmd{\beamer@sectionintoc}{\vskip1.5em}{\vskip0.5em}{}{}
+\makeatother
+
+% adjust footer
+\makeatother\setbeamertemplate{footline} 
+{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.2\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\insertshortauthor
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.45\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshorttitle\hspace*{3em}
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.132\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshortdate\hspace*{1em}
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.218\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+    \usebeamerfont{title in head/foot}\insertframenumber{} / \inserttotalframenumber\hspace*{1ex}
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+
+\title{Mosaic Catalog}
+\subtitle{of the 2018 FLEX Campaign Imagery}
+\author{Britta Themann}
+\institute{ESA-ESRIN}
+\date{\today}
+
+\AtBeginSection[]{
+  \begin{frame}
+  \vfill
+  \centering
+  \begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+    \usebeamerfont{title}\insertsectionhead\par%
+  \end{beamercolorbox}
+  \vfill
+  \end{frame}
+}
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+% Ctrl+T to comment, Ctrl+U to uncomment
+%-----------------------------------------------------------------
+\section{01\_Italy\_Coast}
+
+\subsection{$1$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180607-COA-0848-0915-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-15_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+%-----------------------------------------------------------------
+\section{02\_Italy\_Grosseto}
+
+\subsection{$2$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180730-S3IT-1135-1149-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+\subsection{$3$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{M0189_Gross_180616_a01-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+\subsection{$4$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{M0216_Gross_180704_a01-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+\subsection{$5$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180718-S3IT-1150-1525-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-29_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+\subsection{$6$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{M0231_Gross_180731_a06-8c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+\subsection{$7$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{M0231_Gross_180731_a01-8c_v1_Part_0-2_refl_BT_2021-03-25_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+%-----------------------------------------------------------------
+\section{03\_France\_OHP}
+
+\subsection{$8$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180710-S3FR-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+\subsection{$9$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180710-OHP-1059-1338-1200-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-31_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+%%-----------------------------------------------------------------
+\section{04\_Germany\_CKA}
+
+\subsection{$10$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180802-CKA-1326-1329-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-13_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+\subsection{$11$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180802-CKA-1310-1318-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-14_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+%%-----------------------------------------------------------------
+\section{05\_Germany\_Selhausen}
+
+\subsection{$12$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180702-S3GER-1223-1233-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2020-10-03_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+\subsection{$13$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180802-SEL-1227-1254-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-16_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+\subsection{$14$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180802-S3GER-1204-1217-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-08_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+\subsection{$15$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{M0213_S3B_J_180702_a01-05c_v1_Part_0-1_refl_BT_2021-03-28_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+\subsection{$16$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{M0214_S3B_S_180702_a01c_v1_Part_0-1_refl_BT_2021-03-29_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+%%-----------------------------------------------------------------
+\section{07\_Spain\_Majadas}
+
+\subsection{$17$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180624-MAJ-1015-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+\subsection{$18$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180624-S3ESP-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+%%-----------------------------------------------------------------
+\section{08\_Switzerland\_Laegeren}
+
+\subsection{$19$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180713-S3SWI-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+
+\subsection{$20$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180713-LAE-1327-1347-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-09_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+%%-----------------------------------------------------------------
+\section{09\_Switzerland\_Greifensee}
+
+\subsection{$21$}
+\begin{frame}
+\begin{center}
+\includegraphics[width = 13cm, height = 9cm,keepaspectratio]{20180713-GRE-1046-1800-L1-N-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png}
+\end{center}
+\end{frame}
+%-----------------------------------------------------------------
+
+\end{document}
