@@ -1,2 +1,2 @@
 *.Rmd linguist-language=R
-Mosaic_Catalog_Presentation/* linguist-vendored
+*.tex linguist-vendored
