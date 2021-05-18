@@ -1,2 +1,2 @@
 *.Rmd linguist-language=R
-*.tex linguist-vendored
+tex/* linguist-vendored
