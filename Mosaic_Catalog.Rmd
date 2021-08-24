@@ -1,15 +1,16 @@
 ---
 title: "Mosaic_Catalog"
-author: "Britta Themann"
-date: "4 May 2021"
-output: html_document
-editor_options: 
-  chunk_output_type: console
+author: "brittth"
+date: "13 May 2021"
+output: word_document
 ---
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(eval = FALSE)
+```
 
 # SETTINGS (Adjust them!)
 ```{r}
-setwd('C:/Users/britta themann/Documents/Mosaic_Catalog/')
+setwd('C:/Users/brittth/Documents/Mosaic_Catalog/')
 ```
 
 # Install and load packages
