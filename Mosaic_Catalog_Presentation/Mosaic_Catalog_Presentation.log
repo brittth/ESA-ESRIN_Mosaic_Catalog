@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.12.2)  17 MAY 2021 15:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.12.2)  24 AUG 2021 13:21
 entering extended mode
 **./Mosaic_Catalog_Presentation.tex
 (Mosaic_Catalog_Presentation.tex
@@ -1042,8 +1042,11 @@ Dictionary: translator-numbers-dictionary, Language: English
 anslator-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (Mosaic_Catalog_Presentation.nav)
-LaTeX Font Info:    Calculating math sizes for size <4> on input line 87.
+Overfull \hbox (2.52525pt too wide) in paragraph at lines 83--83
+ [][]|   
+ []
 
+LaTeX Font Info:    Calculating math sizes for size <4> on input line 87.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <2> not available
 (Font)              size <3> substituted on input line 87.
@@ -1085,9 +1088,19 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 87.
 ("C:\Users\britta themann\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb
 .fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1{C:/Users/britta themann/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+)
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
 
-] [2
+[1{C:/Users/britta themann/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+]
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
+[2
 
 ]
 
@@ -1115,11 +1128,21 @@ t//20180607-COA-0848-0915-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_
 Overfull \vbox (1.16884pt too high) detected at line 98
  []
 
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
 [3
 
  <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180607-COA-0848-09
 15-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-15_map_TCI_info
-_plot.png (PNG copy)>] [4
+_plot.png (PNG copy)>]
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
+[4
 
 ]
 
@@ -1147,6 +1170,11 @@ p_TCI_info_plot.png  used on input line 107.
 Overfull \vbox (1.16884pt too high) detected at line 107
  []
 
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
 [5
 
  <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180730-S3IT-1135-1
@@ -1160,65 +1188,9 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 109.
 
-<C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0189_Gross_180616_a0
-1-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png, id=341, 722.7pt x 7
-22.7pt>
-File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0189_Gross_1806
-16_a01-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png Graphic file (t
-ype png)
-<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0189_Gross_18061
-6_a01-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png>
-Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
-t//M0189_Gross_180616_a01-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.
-png  used on input line 114.
-(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
-
-Overfull \vbox (1.16884pt too high) detected at line 114
- []
-
-[6
-
- <C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0189_Gross_180616_a
-01-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png (PNG copy)>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 116.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 116.
-
-<C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0216_Gross_180704_a0
-1-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.png, id=376, 722.7pt x 7
-22.7pt>
-File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0216_Gross_1807
-04_a01-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.png Graphic file (t
-ype png)
-<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0216_Gross_18070
-4_a01-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.png>
-Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
-t//M0216_Gross_180704_a01-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.
-png  used on input line 121.
-(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
-
-Overfull \vbox (1.16884pt too high) detected at line 121
- []
-
-[7
-
- <C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0216_Gross_180704_a
-01-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.png (PNG copy)>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 123.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 123.
-
 <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180718-S3IT-1150-15
 25-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-29_map_TCI_info
-_plot.png, id=412, 722.7pt x 722.7pt>
+_plot.png, id=341, 722.7pt x 722.7pt>
 File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180718-S3IT-11
 50-1525-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-29_map_TCI
 _info_plot.png Graphic file (type png)
@@ -1227,17 +1199,88 @@ _info_plot.png Graphic file (type png)
 info_plot.png>
 Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
 t//20180718-S3IT-1150-1525-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT
-_2021-03-29_map_TCI_info_plot.png  used on input line 128.
+_2021-03-29_map_TCI_info_plot.png  used on input line 114.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 114
+ []
+
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
+[6
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180718-S3IT-1150-1
+525-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-29_map_TCI_inf
+o_plot.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 116.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 116.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0189_Gross_180616_a0
+1-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png, id=376, 722.7pt x 7
+22.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0189_Gross_1806
+16_a01-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png Graphic file (t
+ype png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0189_Gross_18061
+6_a01-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//M0189_Gross_180616_a01-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.
+png  used on input line 121.
+(pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
+
+Overfull \vbox (1.16884pt too high) detected at line 121
+ []
+
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
+[7
+
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0189_Gross_180616_a
+01-02c_v1_Part_0-1_refl_BT_2021-03-24_map_TCI_info_plot.png (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 123.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 123.
+
+<C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0216_Gross_180704_a0
+1-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.png, id=412, 722.7pt x 7
+22.7pt>
+File: C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0216_Gross_1807
+04_a01-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.png Graphic file (t
+ype png)
+<use C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0216_Gross_18070
+4_a01-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.png>
+Package pdftex.def Info: C:/Users/britta themann/Documents/Mosaic_Catalog/outpu
+t//M0216_Gross_180704_a01-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.
+png  used on input line 128.
 (pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
 
 Overfull \vbox (1.16884pt too high) detected at line 128
  []
 
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
 [8
 
- <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180718-S3IT-1150-1
-525-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-29_map_TCI_inf
-o_plot.png (PNG copy)>]
+ <C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0216_Gross_180704_a
+01-06c_v1_Part_0-4_refl_BT_2021-03-26_map_TCI_info_plot.png (PNG copy)>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 130.
@@ -1260,6 +1303,11 @@ ng  used on input line 135.
 (pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
 
 Overfull \vbox (1.16884pt too high) detected at line 135
+ []
+
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
  []
 
 [9
@@ -1290,10 +1338,19 @@ ng  used on input line 142.
 Overfull \vbox (1.16884pt too high) detected at line 142
  []
 
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
 [10
 
  <C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0231_Gross_180731_a
 01-8c_v1_Part_0-2_refl_BT_2021-03-25_map_TCI_info_plot.png (PNG copy)>]
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
 [11
 
 ]
@@ -1319,6 +1376,11 @@ _plot.png  used on input line 151.
 (pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
 
 Overfull \vbox (1.16884pt too high) detected at line 151
+ []
+
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
  []
 
 [12
@@ -1350,11 +1412,21 @@ t_BT_2021-03-31_map_TCI_info_plot.png  used on input line 158.
 Overfull \vbox (1.16884pt too high) detected at line 158
  []
 
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
 [13
 
  <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180710-OHP-1059-13
 38-1200-1800-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-03-31_map_TCI
-_info_plot.png (PNG copy)>] [14
+_info_plot.png (PNG copy)>]
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
+[14
 
 ]
 
@@ -1380,6 +1452,11 @@ t//20180802-CKA-1326-1329-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2
 (pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
 
 Overfull \vbox (1.16884pt too high) detected at line 167
+ []
+
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
  []
 
 [15
@@ -1412,11 +1489,21 @@ t//20180802-CKA-1310-1318-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2
 Overfull \vbox (1.16884pt too high) detected at line 174
  []
 
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
 [16
 
  <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-CKA-1310-13
 18-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-14_map_TCI_info_
-plot.png (PNG copy)>] [17
+plot.png (PNG copy)>]
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
+[17
 
 ]
 
@@ -1442,6 +1529,11 @@ T_2020-10-03_map_TCI_info_plot.png  used on input line 183.
 (pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
 
 Overfull \vbox (1.16884pt too high) detected at line 183
+ []
+
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
  []
 
 [18
@@ -1474,6 +1566,11 @@ t//20180802-SEL-1227-1254-600-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2
 Overfull \vbox (1.16884pt too high) detected at line 190
  []
 
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
 [19
 
  <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180802-SEL-1227-12
@@ -1502,6 +1599,11 @@ T_2021-04-08_map_TCI_info_plot.png  used on input line 197.
 (pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
 
 Overfull \vbox (1.16884pt too high) detected at line 197
+ []
+
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
  []
 
 [20
@@ -1533,6 +1635,11 @@ png  used on input line 204.
 Overfull \vbox (1.16884pt too high) detected at line 204
  []
 
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
 [21
 
  <C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0213_S3B_J_180702_a
@@ -1561,10 +1668,19 @@ t//M0214_S3B_S_180702_a01c_v1_Part_0-1_refl_BT_2021-03-29_map_TCI_info_plot.png
 Overfull \vbox (1.16884pt too high) detected at line 211
  []
 
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
 [22
 
  <C:/Users/britta themann/Documents/Mosaic_Catalog/output//M0214_S3B_S_180702_a
 01c_v1_Part_0-1_refl_BT_2021-03-29_map_TCI_info_plot.png (PNG copy)>]
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
 [23
 
 ]
@@ -1590,6 +1706,11 @@ plot.png  used on input line 221.
 (pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
 
 Overfull \vbox (1.16884pt too high) detected at line 221
+ []
+
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
  []
 
 [24
@@ -1620,11 +1741,21 @@ o_plot.png  used on input line 228.
 Overfull \vbox (1.16884pt too high) detected at line 228
  []
 
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
 [25
 
  <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180624-S3ESP-3050-
 MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_map_TCI_info_plot.png (PNG copy)>]
- [26
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
+[26
 
 ]
 
@@ -1649,6 +1780,11 @@ o_plot.png  used on input line 237.
 (pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
 
 Overfull \vbox (1.16884pt too high) detected at line 237
+ []
+
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
  []
 
 [27
@@ -1681,11 +1817,21 @@ t//20180713-LAE-1327-1347-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_
 Overfull \vbox (1.16884pt too high) detected at line 244
  []
 
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
 [28
 
  <C:/Users/britta themann/Documents/Mosaic_Catalog/output//20180713-LAE-1327-13
 47-3050-MOSAIC-DUAL_radiance_img_atm_pol_smcorr-rect_BT_2021-04-09_map_TCI_info
-_plot.png (PNG copy)>] [29
+_plot.png (PNG copy)>]
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
+ []
+
+[29
 
 ]
 
@@ -1710,6 +1856,11 @@ fo_plot.png  used on input line 253.
 (pdftex.def)             Requested size: 256.06956pt x 256.06956pt.
 
 Overfull \vbox (1.16884pt too high) detected at line 253
+ []
+
+
+Overfull \hbox (2.52525pt too wide) has occurred while \output is active
+ [][]|   
  []
 
 [30
@@ -1738,8 +1889,8 @@ LaTeX Font Warning: Size substitutions with differences
  ) 
 Here is how much of TeX's memory you used:
  19993 strings out of 480224
- 400746 string characters out of 2875790
- 663609 words of memory out of 3000000
+ 400752 string characters out of 2875790
+ 663574 words of memory out of 3000000
  35980 multiletter control sequences out of 15000+200000
  542054 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1750,7 +1901,7 @@ i600\ecss0600.pk> <C:\Users\britta themann\AppData\Local\MiKTeX\fonts/pk/ljfour
 fonts/pk/ljfour/jknappen/ec/dpi600\ecss1095.pk> <C:\Users\britta themann\AppDat
 a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss0500.pk><C:/Users/britta 
 themann/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb>
-Output written on Mosaic_Catalog_Presentation.pdf (30 pages, 55403039 bytes).
+Output written on Mosaic_Catalog_Presentation.pdf (30 pages, 55403068 bytes).
 PDF statistics:
  1384 PDF objects out of 1440 (max. 8388607)
  90 named destinations out of 1000 (max. 500000)
